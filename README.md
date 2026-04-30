@@ -21,4 +21,4 @@
 
 **5. Koordinasi Tim & Administrasi**
 - Menghadiri pertemuan rutin via Google Meet untuk sinkronisasi rencana model ML dengan infrastruktur Backend
-- Melengkapi dan menandatangani PkomitmenIntegritas sebagai bentuk komitmen profesional terhadap proyek.
+- Melengkapi dan menandatangani Pakta Integritas sebagai bentuk komitmen profesional terhadap proyek.
